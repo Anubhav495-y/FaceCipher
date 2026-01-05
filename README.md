@@ -27,5 +27,5 @@ This project is focused on exploring and implementing various techniques in imag
 ### Week 3 : 
 - **Goal** : This week focuses on Convolutional Neural Networks (CNNs) and image preprocessing using OpenCV, covering core CNN concepts and essential preprocessing techniques such as resizing, normalization, blurring, and noise removal. Practical exercises on multiple datasets are used to strengthen understanding of CNN model training.
 - **Topics covered** :
-1. OpenCV ; essential for preprocessing the raw image data.
+1. [OpenCV](https://github.com/Anubhav495-y/FaceCipher/blob/b76984c6acf63637054b781eb9e97064ea2e828c/Week3/opencv.py) ; essential for preprocessing the raw image data.
 2. Exploring [Convolutional Neural Network](https://github.com/wncc/Machine-Learning-LS-24/tree/main/Week%203/CNN), the most efficient NN to deal with image data.
