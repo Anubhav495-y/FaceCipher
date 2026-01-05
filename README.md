@@ -19,13 +19,13 @@ This project is focused on exploring and implementing various techniques in imag
 ### Week 2 : Introduction to Neural networks and YOLOv8
 - **Goal** :This week focuses on Deep Learning, covering essential frameworks such as TensorFlow and PyTorch, core neural network concepts, and an introduction to the YOLOv8 architecture for object classification. Hands-on experiments on multiple datasets are used to reinforce learning.
 - **Topics covered** :
-1. Deep learning framework ; tesorflow
-2. Concepts of Neural Networks 
-3. YOLOv8, focusing on its capabilities for object detection and classification.
-4. The Assignments to practice our skills to reinforce our understanding.
+1. Deep learning framework ; [tensorflow](https://github.com/Anubhav495-y/FaceCipher/tree/a77257c7ddefd06ecd8c3ada3a4c0c7b78761f7a/Week2/tensorflow)
+2. Concepts of [Neural Networks](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)  
+3. [YOLOv8](https://drive.google.com/drive/folders/1fsvATdWH0P2ClhZlGrcWAstX0iC1t24g?usp=sharing), focusing on its capabilities for object detection and classification.
+4. The [Assignments](https://github.com/Anubhav495-y/FaceCipher/tree/a77257c7ddefd06ecd8c3ada3a4c0c7b78761f7a/Week2/Assignment) to practice our skills to reinforce our understanding.
 
 ### Week 3 : 
 - **Goal** : This week focuses on Convolutional Neural Networks (CNNs) and image preprocessing using OpenCV, covering core CNN concepts and essential preprocessing techniques such as resizing, normalization, blurring, and noise removal. Practical exercises on multiple datasets are used to strengthen understanding of CNN model training.
 - **Topics covered** :
 1. OpenCV ; essential for preprocessing the raw image data.
-2. Exploring Convolutional Neural Network, the most efficient NN to deal with image data.
+2. Exploring [Convolutional Neural Network](https://github.com/wncc/Machine-Learning-LS-24/tree/main/Week%203/CNN), the most efficient NN to deal with image data.
